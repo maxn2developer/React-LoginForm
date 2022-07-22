@@ -1,2 +1,2 @@
-# React-LoginForm
+# Study-React
 Created with CodeSandbox
